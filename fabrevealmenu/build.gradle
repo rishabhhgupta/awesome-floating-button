@@ -46,7 +46,7 @@ afterEvaluate {
 
                 groupId = 'com.github.rishabhgupta'
                 artifactId = 'awesome-floating-button'
-                version = '2.0'
+                version = '1.0'
             }
         }
     }

@@ -46,10 +46,10 @@ afterEvaluate {
 
                 groupId = 'com.github.rishabhgupta'
                 artifactId = 'awesome-floating-button'
-                version = '1.0'
+                version = '2.0'
             }
         }
     }
 }
-Footer
-© 2022 GitH
+//Footer
+//© 2022 GitH
